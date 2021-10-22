@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x11a7144cFc72FaB938294D7DCF907B2091a966C7",
+  "SCAN_LINK": "https://polygonscan.com/address/0x11a7144cfc72fab938294d7dcf907b2091a966c7",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Doodles Polygon",
+  "SYMBOL": "DOODLE",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/doodles-polygon",
+  "SHOW_BACKGROUND": true
+}
